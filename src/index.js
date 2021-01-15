@@ -1,0 +1,5 @@
+// const amis =  require('amis')
+var a = require('./test')
+console.log(a.a)
+console.log(12312)
+// console.log(amis)
