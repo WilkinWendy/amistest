@@ -1,5 +1,8 @@
-// const amis =  require('amis')
-import a from './test'
-console.log(a.a)
-console.log(12312)
-// console.log(amis)
+import Vue from 'vue'
+import App from './App.vue'
+new Vue({
+    el: '#app',
+    render(h) {
+        return h(App)
+    }
+})

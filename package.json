@@ -15,6 +15,9 @@
     "cross-env": "^7.0.3",
     "html-webpack-plugin": "^4.5.1",
     "ts-loader": "^8.0.14",
+    "vue": "^2.6.12",
+    "vue-loader": "^15.9.6",
+    "vue-template-compiler": "^2.6.12",
     "webpack": "^5.14.0"
   },
   "devDependencies": {
