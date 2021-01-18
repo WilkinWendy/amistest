@@ -1,1 +1,3 @@
-module.exports.a = 1
+module.exports.a = (()=>{
+    return 222
+})()

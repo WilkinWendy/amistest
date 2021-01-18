@@ -1,5 +1,5 @@
 // const amis =  require('amis')
-var a = require('./test')
+import a from './test'
 console.log(a.a)
 console.log(12312)
 // console.log(amis)
